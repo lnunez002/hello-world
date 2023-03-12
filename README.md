@@ -1,4 +1,4 @@
 # hello-world
-my first repository on GitHub
+# To improve is to change.
 
 I love the outdoors and I enjoy reading.
